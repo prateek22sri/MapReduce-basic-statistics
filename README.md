@@ -1,4 +1,4 @@
-# MapReduce_basicStatistics
+# MapReduce_basicStatistics Cloud Computing project 1
 
 The idea of this project is to get you started with Hadoop and the MapReduce concept. You may have already
 looked at the WordCount example, both serial and Hadoop implementations. This problem is similar to
